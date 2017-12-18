@@ -7,7 +7,7 @@ Implementation of Recurrent Residual Attention Network
   title     = {RRA: Recurrent Residual Attention for Sequence Learning},  
   journal   = {CoRR},    
   year      = {2017},  
-  url       = {http://arxiv.org/abs/1709.03714},  
+  url       = {https://arxiv.org/abs/1709.03714},  
   archivePrefix = {arXiv},  
   eprint    = {1709.03714},  
 }
